@@ -4,7 +4,8 @@
 
 html, body {
 	margin: 0;
-	font-family: "Source Sans Pro"
+	font-family: "Source Sans Pro";
+
 }
 
 header, footer {
@@ -40,7 +41,9 @@ ul li {
 	width: 50%;
 }
 
-main {text-indent: 75px; color: #FF7F50;
+main {width: 80%;
+	margin: auto;
+	color: #FF7F50;
 
 }
 
@@ -48,20 +51,26 @@ article {text-indent: 115px;
 
 }
 
+
 section {
 
 }
 
-h2 {
+h2 {font-size: 30px; box-shadow: 2px 2px 0px #FF7F50;
+
 
 }
 
-h3 {
+h3 {font-size: 24px;
+
+}
+
+p {margin:auto;
 
 }
 
 article p {color: black; text-indent: 115px;
-
+			padding-bottom: 5px;
 }
 
 ul {color: black; text-indent: 100px;
