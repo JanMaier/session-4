@@ -18,15 +18,19 @@ header, footer {
 	width: 50%; margin: auto;
 }
 
-header .subtitle {
-	padding-top: 10px;
-	font-size: 24px;
 
+header .subtitle {
+	font-size: 24px;
 
 }
 
+
 h1 {font-size: 36px;
 	text-transform: uppercase;
+
+}
+
+address {width: 100%;
 
 }
 
@@ -40,7 +44,7 @@ ul li {
 	width: 50%;
 }
 
-main {width: 50%; margin: auto;
+main {width: 48%; margin: auto;
 	color: #FF7F50;
 
 }
@@ -88,9 +92,5 @@ ul {color: black; text-indent: 100px;
 }
 
 footer h2 {
-
-}
-
-footer p {
 
 }
