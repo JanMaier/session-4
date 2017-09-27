@@ -9,7 +9,7 @@ html, body {
 }
 
 header, footer {
-	background-color: #FF7F50;
+	background-color: #cc0000;
 	}
 
 .centered {
@@ -46,7 +46,7 @@ ul li {
 
 
 main {width: 43%; margin: auto;
-	color: #FF7F50;
+	color: #cc0000;
 
 }
 
@@ -59,7 +59,7 @@ section {width: 75%;
 
 }
 
-h2 {font-size: 30px; box-shadow: 0px 2px 0px #FF7F50;
+h2 {font-size: 30px; box-shadow: 0px 2px 0px #cc0000;
 
 
 }
@@ -87,7 +87,7 @@ ul {color: black;
 
 }
 
-.details {color: #FF7F50;
+.details {color: #cc0000;
 
 }
 
