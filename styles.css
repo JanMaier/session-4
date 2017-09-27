@@ -16,6 +16,7 @@ header, footer {
 	padding-top: 1%;
 	padding-bottom: 1%;
 	width: 50%; margin: auto;
+	color: white;
 }
 
 
@@ -44,6 +45,9 @@ ul li {
 	width: 50%;
 }
 
+address ul {color: white;
+
+}
 
 main {width: 43%; margin: auto;
 	color: #cc0000;
@@ -70,7 +74,7 @@ h3 {font-size: 24px; margin: auto; text-align: justify-all;
 }
 
 
-h3, article p, section p, section ul {text-indent: 5%;
+h3, article p, section p, section ul {text-indent: 8%;
 
 }
 
