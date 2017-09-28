@@ -74,7 +74,7 @@ h3 {font-size: 24px; margin: auto; text-align: justify-all;
 }
 
 
-h3, article p, section p, section ul {text-indent: 8%;
+h3, article p, section p, section ul {margin-left: 8%;
 
 }
 
