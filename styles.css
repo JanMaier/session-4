@@ -37,7 +37,7 @@ address {width: 85%;
 
 ul {
 	display: flex;
-	flex-wrap: wrap; list-style-position: inside;
+	flex-wrap: wrap; list-style-position: inside; color: black;
 
 }
 
@@ -54,11 +54,11 @@ main {width: 43%; margin: auto;
 
 }
 
-article {padding-bottom: 3%;
+section {width: 75%;
 
 }
 
-section {width: 75%;
+article {padding-bottom: 3%;
 
 }
 
@@ -83,9 +83,6 @@ article p {color: black;
 			padding-bottom: 5px;
 }
 
-ul {color: black;
-
-}
 
 .details {color: #cc0000;
 
